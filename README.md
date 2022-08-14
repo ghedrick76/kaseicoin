@@ -4,5 +4,5 @@ A smart contract for a fictional new monetary system focused around a Mars token
 
 # Evaluation Evidence
 
-![Image](Images/compiled_kaseicoin)
+![Image](Images/compiled_kaseicoin.png)
 The above image shows the successful compilation of the KaseiCoin contract.
